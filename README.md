@@ -1,9 +1,9 @@
-# アルゴリズムとデータ構造A
+# ADSA
 
-## 概要
-2春【アルゴリズムとデータ構造A】のプログラムをまとめたリポジトリです。すべてC言語で書かれています。
+## Overview
+This repository contains programs from Algorithms and Data Structures A (Spring, Year 2). All of them are written in C.
 
-## フォルダ・ファイル構成
+## Folder Structure
 
 ```
 ADSA/
